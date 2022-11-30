@@ -1,0 +1,10 @@
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubfont{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: whitesmoke;
+}
+.myitalics{
+    font-style: italic;
+}
